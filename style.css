@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    background-color:lightcyan ;
+    color: black;
+    font-size: 49px;
+}
+
+.note{
+    font-size: 20px;
+    color: red;
+}
+.square_side{
+    font-size: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:darkcyan ;
+    color: white;
+    line-height: 2.5;
+    font-size: 16;
+text-align: center;
+}
+canvas{
+    border: 3px solid lightblue;
+    box-shadow: 10px 10px 25px blue;
+}
+video{
+    border: 3px solid lightblue;
+    box-shadow: 10px 10px 25px blue;
+}
